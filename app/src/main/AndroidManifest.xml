@@ -9,6 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.EstacionamientoV10">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAGjboN9W4zIfMON9MAGJ_HCqup7ev8Rjs" />
+        <activity
+            android:name=".Busqueda_Est"
+            android:exported="false" />
+        <activity
+            android:name=".Video"
+            android:exported="false" />
         <activity
             android:name=".MenuIzquierdoActivity"
             android:exported="true"

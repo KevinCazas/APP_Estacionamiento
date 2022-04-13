@@ -3,14 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/activity_busqueda_est.xml" value="0.11413043478260869" />
+        <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/activity_main_video.xml" value="0.13" />
         <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/activity_menu_izquierdo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/activity_video.xml" value="0.18" />
         <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/app_bar_menu_izquierdo.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/content_menu_izquierdo.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/fragment_gallery.xml" value="0.12" />
         <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/fragment_home.xml" value="0.18" />
-        <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/fragment_inicio.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/fragment_inicio.xml" value="0.21" />
         <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/fragment_registro.xml" value="0.13994565217391305" />
         <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/fragment_videos.xml" value="0.21" />
         <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/layout/nav_header_menu_izquierdo.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/menu/activity_menu_izquierdo_drawer.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/corei3/AndroidStudioProjects/Estacionamientov10/app/src/main/res/menu/menu_izquierdo.xml" value="0.20416666666666666" />

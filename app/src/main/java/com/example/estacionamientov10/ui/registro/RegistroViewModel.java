@@ -10,7 +10,7 @@ public class RegistroViewModel extends ViewModel {
 
     public RegistroViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is gallery fragment");
+        mText.setValue("registro de parqueo");
     }
 
     public LiveData<String> getText() {

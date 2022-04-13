@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Menu;
+import android.widget.Button;
 
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
@@ -21,6 +22,8 @@ public class MenuIzquierdoActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
     private ActivityMenuIzquierdoBinding binding;
+    Button vide;
+    Button par;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +31,34 @@ public class MenuIzquierdoActivity extends AppCompatActivity {
 
         binding = ActivityMenuIzquierdoBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
+
+        setContentView(binding.getRoot());
+
+        vide=(Button)findViewById(R.id.vide);
+        vide.setOnClickListener(new View.OnClickListener() {
+
+
+            @Override
+            public void onClick(View v) {
+
+
+                Intent i =new Intent( MenuIzquierdoActivity.this, Video.class);
+                startActivity(i);
+            }
+        });
+        par=(Button)findViewById(R.id.par);
+        par.setOnClickListener(new View.OnClickListener() {
+
+
+            @Override
+            public void onClick(View view) {
+
+
+                Intent x =new Intent( MenuIzquierdoActivity.this, Busqueda_Est.class);
+                startActivity(x);
+            }
+        });
+
 
         setSupportActionBar(binding.appBarMenuIzquierdo.toolbar);
         binding.appBarMenuIzquierdo.fab.setOnClickListener(new View.OnClickListener() {

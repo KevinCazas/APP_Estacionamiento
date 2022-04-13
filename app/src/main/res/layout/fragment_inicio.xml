@@ -64,7 +64,7 @@
 
                         <Button
                             android:id="@+id/est"
-                            android:layout_width="258dp"
+                            android:layout_width="251dp"
                             android:layout_height="wrap_content"
                             android:text="@string/Busqueda_parqueo_btn" />
                     </LinearLayout>
